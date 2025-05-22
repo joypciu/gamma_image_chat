@@ -16,7 +16,7 @@ A Streamlit web application that generates concise summaries of uploaded images 
 
 ## Demo
 
-The app is deployed on Streamlit Community Cloud: [View Live Demo](https://your-app-name.streamlit.app) *(Replace with your actual Streamlit URL after deployment)*.
+The app is deployed on Streamlit Community Cloud: [View Live Demo](https://joy-image-chat.streamlit.app/)
 
 ## Prerequisites
 
@@ -136,22 +136,13 @@ image-summary-app/
 - **UI Issues**:
   - If the dark theme doesn’t apply, verify the CSS in `main.py` under `st.markdown(css, unsafe_allow_html=True)`.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. *(Add a LICENSE file if you choose to include one)*
 
 ## Author
-
+- Usman Gani Joy
 - ORCID: [0009-0003-9498-3828](https://orcid.org/0009-0003-9498-3828)
 
 ## Acknowledgments
